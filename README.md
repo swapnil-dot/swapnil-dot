@@ -1,2 +1,3 @@
 Hi There!!
-https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+

@@ -32,7 +32,7 @@ I mostly work with Python🐍,bash and Cloud-Native technologies.☁️🚀
   </a>
  </p>
   
-### CSPs
+### Cloud Platforms
   
  <p float="left">
   <a href="https://cloud.google.com/" target="_blank" >

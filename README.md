@@ -14,4 +14,4 @@ I mostly work with cloud native technologies🌧 and python🐍
 
 
 
-https://github.com/swapnil-dot/swapnil-dot/edit/main/README.md
+![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)

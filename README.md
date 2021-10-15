@@ -9,4 +9,4 @@ Here are my stats:
 
 I mostly work with cloud native technologies🌧 and python🐍 
 
-[! [My tech]https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif]()
+[![My tech](https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif)]()

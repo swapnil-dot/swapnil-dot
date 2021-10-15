@@ -10,7 +10,7 @@ I mostly work with Python🐍,bash and Cloud-Native technologies.☁️🚀
 
 <p float="left">
   <a href="https://golang.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif"  height="90" />
+    <img src="https://raw.githubusercontent.com/swapnil-dot/images/master/giphy.gif"  height="90" />
   </a>
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
@@ -36,7 +36,7 @@ I mostly work with Python🐍,bash and Cloud-Native technologies.☁️🚀
   
  <p float="left">
   <a href="https://bit.ly/2W7a91W" target="_blank" >
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F9499849192112602%2F&psig=AOvVaw3wZ0LcVVyhdAvv52Riku3_&ust=1634366733497000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCICt19foy_MCFQAAAAAdAAAAABAD"  height="75" />
+    <img src=""  height="75" />
   </a> 
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />

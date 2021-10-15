@@ -55,20 +55,14 @@ I mostly work with Python🐍,bash and Cloud-Native technologies.☁️🚀
   <a href="https://prometheus.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
   </a>
-  <a href="https://www.influxdata.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/influxdata.gif" height="60" />
-  </a>
 </p>
 
 ### Databases
   
  <p float="left">
-  <a href="https://www.postgresql.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/postgresql.gif" height="90" />&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/swapnil-dot/images/master/mysql.gif" height="90" />&nbsp;&nbsp;
   </a>
-  <a href="https://www.timescale.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/tsdb.gif" width="120" />
-  </a>&nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/mongo.gif" height="80" />
   </a>
@@ -76,7 +70,7 @@ I mostly work with Python🐍,bash and Cloud-Native technologies.☁️🚀
 
 ### 📫 How to reach me? 
 
-  ⦿ Visit my [Website](https://www.kumar-saurabh.com) 🌐 <br>
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/itsksaurabh/) 👨🏻‍💻 <br>
-  ⦿ Follow me on [Twitter](https://twitter.com/itsksaurabh) 🐦 <br>
-  ⦿ Shoot Me an [Email](mailto:itsksaurabh@gmail.com) 💌 <br>
+  🌟 Visit my [Website]() 🌐 <br>
+  🌟 Connect with me on [LinkedIn]() 👨🏻‍💻 <br>
+  🌟 Follow me on [Twitter]() 🐦 <br>
+  🌟 Shoot Me an [Email](swapnilchandra25@gmail.com) 💌 <br>

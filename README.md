@@ -9,8 +9,8 @@ I mostly work with Python🐍,bash and Cloud-Native technologies.☁️🚀
 
 
 <p float="left">
-  <a href="https://golang.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/swapnil-dot/images/master/giphy.gif"  height="90" />
+  <a href="https://www.python.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/swapnil-dot/images/master/giphy.gif"  height="80" />
   </a>
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
@@ -35,12 +35,15 @@ I mostly work with Python🐍,bash and Cloud-Native technologies.☁️🚀
 ### CSPs
   
  <p float="left">
-  <a href="https://bit.ly/2W7a91W" target="_blank" >
-    <img src=""  height="75" />
+  <a href="https://cloud.google.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/swapnil-dot/images/master/google.gif"  height="75" />
   </a> 
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
   </a>
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/swapnil-dot/images/master/azure.gif"  height="75" />
+  </a> 
  </p>
   
 ### Monitoring

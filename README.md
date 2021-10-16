@@ -39,7 +39,7 @@ I mostly work with Python🐍,bash and Cloud-Native technologies.☁️🚀
     <img src="https://raw.githubusercontent.com/swapnil-dot/images/master/google.gif"  height="75" />
   </a> 
   <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
+    <img src="https://raw.githubusercontent.com/swapnil-dot/images/master/aws.gif"  height="75" />
   </a>
   <a href="https://azure.microsoft.com/en-in/" target="_blank" >
     <img src="https://raw.githubusercontent.com/swapnil-dot/images/master/azure.gif"  height="75" />

@@ -31,9 +31,6 @@ I mostly work with Python🐍,bash and Cloud-Native technologies.☁️🚀
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
   </a>
  </p>
-<p float="left">
-  <p>Kubernetes</p>
- </p>
   
 ### Cloud Platforms
   

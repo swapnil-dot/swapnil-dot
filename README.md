@@ -64,7 +64,7 @@ I mostly work with Python🐍,bash and Cloud-Native technologies.☁️🚀
     <img src="https://raw.githubusercontent.com/swapnil-dot/images/master/sql.gif" height="90" />&nbsp;&nbsp;
   </a>
   <a href="https://www.mongodb.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/mongo.gif" height="80" />
+    <img src="https://raw.githubusercontent.com/swapnil-dot/images/master/mongo.gif" height="80" />
   </a>
 </p>
 

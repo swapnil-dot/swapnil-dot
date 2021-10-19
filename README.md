@@ -28,7 +28,7 @@ I mostly work with Python🐍,bash and Cloud-Native technologies.☁️🚀
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/helm.gif"  height="75" />
   </a>
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
+    <img src="https://raw.githubusercontent.com/swapnil-dot/images/master/html.gif" height="70" />
   </a>
  </p>
   

@@ -59,7 +59,7 @@ I mostly work with Python🐍,bash and Cloud-Native technologies.☁️🚀
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="60" />&nbsp;&nbsp;
   </a>
   <a href="https://prometheus.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
+    <img src="https://raw.githubusercontent.com/swapnil-dot/images/master/prom.gif" height="65" />
   </a>
 </p>
 

@@ -40,7 +40,11 @@ I mostly work with Python🐍,bash and Cloud-Native technologies.☁️🚀
     <img src="https://raw.githubusercontent.com/swapnil-dot/images/master/sonar.png"  height="65" />
   </a>
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/swapnil-dot/images/master/jenkins.png"  height="65" />
+    <img src="https://raw.githubusercontent.com/swapnil-dot/images/master/jenkins1.png"  height="65" />
+  </a>
+  
+  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/swapnil-dot/images/master/sonar1.png"  height="65" />
   </a>
  </p>
   

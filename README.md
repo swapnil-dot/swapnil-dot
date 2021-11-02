@@ -39,8 +39,14 @@ I mostly work with Python🐍,bash and Cloud-Native technologies.☁️🚀
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
     <img src="https://raw.githubusercontent.com/swapnil-dot/images/master/html.gif" height="70" />
   </a>
+  <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
+    <img src="https://raw.githubusercontent.com/swapnil-dot/images/master/html.gif" height="70" />
+  </a>
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/swapnil-dot/images/master/sonar.png"  height="65" />
+    <img src="https://raw.githubusercontent.com/swapnil-dot/images/master/sonaar.svg"  height="65" />
+  </a>
+  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/swapnil-dot/images/master/bit.svg"  height="65" />
   </a>
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
     <img src="https://raw.githubusercontent.com/swapnil-dot/images/master/jenkins1.png"  height="65" />

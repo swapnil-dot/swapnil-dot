@@ -18,6 +18,9 @@ I mostly work with Python🐍,bash and Cloud-Native technologies.☁️🚀
   <a href="https://www.python.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/swapnil-dot/images/master/python.gif"  height="80" />
   </a>
+    <a href="" target="_blank" >
+    <img src="https://raw.githubusercontent.com/swapnil-dot/images/master/backstage.gif"  height="80" />
+  </a>
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
   </a>

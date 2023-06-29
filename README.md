@@ -9,7 +9,8 @@
 
 I am [Swapnil](), a passionate and enthusiastic Cloud/DevOps engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Cloud technologies and Open-source tools.
 
-![Swapnil's github stats](https://github-readme-stats.vercel.app/api?username=swapnil-dot&hide=issues&show_icons=true&theme=onedark)
+![Swapnil's github stats](https://github-readme-stats.vercel.app/api?username=swapnil-dot&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=great-gatsby)
+ 
 
 I mostly work with Python🐍,bash and Cloud-Native technologies.☁️🚀
 

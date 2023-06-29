@@ -95,4 +95,4 @@ I mostly work with Python🐍,bash and Cloud-Native technologies.☁️🚀
 
 ### 📫 How to reach me? 
   🌟 Connect with me on [LinkedIn](https://www.linkedin.com/in/swapnil-chandra-4114161aa) 👨🏻‍💻 <br>
-  🌟 Shoot Me an [Email](swapnilchandra@protonmail.com) 💌 <br>
+  🌟 Shoot Me an [Email](mailto:swapnilchandra@protonmail.com) 💌 <br>
